@@ -1,0 +1,5 @@
+pwd present working directory
+
+ls list all files which are present in the directory
+
+cd change directory
